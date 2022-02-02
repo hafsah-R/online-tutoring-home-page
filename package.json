@@ -4,7 +4,7 @@
   "private": true,
   
     "optionalDependencies": {
-  "fsevents": "2.1.2"
+  "fsevents": "2.3.2"
 },
 
   "dependencies": {
