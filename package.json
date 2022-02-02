@@ -3,7 +3,9 @@
   "version": "0.1.0",
   "private": true,
   
-    
+    "optionalDependencies": {
+  "fsevents": "2.1.2"
+},
 
   "dependencies": {
     "@testing-library/jest-dom": "^5.15.1",
