@@ -2,9 +2,12 @@
   "name": "tutoring",
   "version": "0.1.0",
   "private": true,
+  
   "optionalDependencies": {
     "fsevents": "^2.3.2",
-    "fsevents": "^1.2.13"
+    "fsevents": "^1.2.13",
+    "os":"darwin",
+    "arch":"any"
 },
   "optionalDependencies": {
     "fsevents": "^2.3.2"
