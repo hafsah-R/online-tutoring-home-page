@@ -5,13 +5,11 @@
   
   "optionalDependencies": {
     "fsevents": "^2.3.2",
-    "fsevents": "^1.2.13",
+    
     "os":"darwin",
     "arch":"any"
 },
-  "optionalDependencies": {
-    "fsevents": "^2.3.2"
-},
+  
   "dependencies": {
     "@testing-library/jest-dom": "^5.15.1",
     "@testing-library/react": "^11.2.7",
