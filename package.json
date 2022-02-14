@@ -4,10 +4,7 @@
   "private": true,
   
   "optionalDependencies": {
-    "fsevents": "^2.1.2",
-    
-    "os":"darwin",
-    "arch":"any"
+    "fsevents": "^2.3.2"
 },
   
   "dependencies": {
