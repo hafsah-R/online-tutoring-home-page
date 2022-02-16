@@ -7,6 +7,6 @@ responsive home page for online tutoring website
 ![color](https://user-images.githubusercontent.com/76250695/154289310-262198fd-de3e-4ce2-8486-5e1fbbf881fd.png)
 
 ## installtion
-npm install sass --save
+npm install sass --save 
 npm i aos --save
 
